@@ -14,7 +14,7 @@ While libraries like `pandas`, `matplotlib` and others are great, there are newe
 
 ---
 
-## 🧠 The Python Replacements You Didn’t Know You Needed
+## The Python Alternative Tools You Might Also need
 
 | Task | Popular Library | Alternative | Benefit |
 |------|------------------|-------------|---------|
