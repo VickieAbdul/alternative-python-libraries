@@ -1,9 +1,9 @@
-# 🚀 Explore New Python Libraries
+# Explore New Python Libraries
 
 Tired of using the same Python libraries over and over again?  
 This project explores powerful **alternatives** to popular tools, some of which can get the job done even **better and faster**.
 
-## 💡 Why This Project?
+## Why This Project?
 
 While libraries like `pandas`, `matplotlib` and others are great, there are newer and lesser-known tools that:
 - Simplify your code
